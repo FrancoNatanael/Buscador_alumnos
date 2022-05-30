@@ -1,0 +1,16 @@
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\bin\Debug\net5.0\buscador.exe
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\bin\Debug\net5.0\buscador.deps.json
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\bin\Debug\net5.0\buscador.runtimeconfig.json
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\bin\Debug\net5.0\buscador.runtimeconfig.dev.json
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\bin\Debug\net5.0\buscador.dll
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\bin\Debug\net5.0\ref\buscador.dll
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\bin\Debug\net5.0\buscador.pdb
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\buscador.csproj.AssemblyReference.cache
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\buscador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\buscador.AssemblyInfoInputs.cache
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\buscador.AssemblyInfo.cs
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\buscador.csproj.CoreCompileInputs.cache
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\buscador.dll
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\ref\buscador.dll
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\buscador.pdb
+C:\Users\fnt\Desktop\Soluciones\buscador_de_alumnos\buscador\obj\Debug\net5.0\buscador.genruntimeconfig.cache
